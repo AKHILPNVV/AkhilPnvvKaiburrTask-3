@@ -18,3 +18,6 @@ to the cluster by applying your manifests. The following requirements should be 
 
 ● a persistent volume should be used to store the MongoDB data. I.e., when you delete
 the MongoDB pod the records in the db should not disappear.
+
+See all the description and outputs of the project in
+# Documentation
